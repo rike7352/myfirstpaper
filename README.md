@@ -1,5 +1,5 @@
 # myfirstpaper
-A paper of results I achieved with my collobarators on software carpentreology for the greater good.
+A publication of results I achieved with my collobarators on software carpentreology for the greater good.
 
 ## Abstract
 Useful contributions to the field of Software Carpentreology.
