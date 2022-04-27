@@ -12,6 +12,8 @@ Useful contributions to the field of Software Carpentreology.
 - item 1
 - item 2
 - item 3
+- item 4
+- item 5
 
 ## Conclusions
 - conclusion 1
